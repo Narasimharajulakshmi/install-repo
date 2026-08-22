@@ -1,0 +1,6 @@
+GLPI-Agent
+-----------------------
+Search CMD and run as administrator mode
+cd C:\Program Files\GLPI-Agent\
+ 
+glpi-agent --server=http://soulgate.girmiti.in/marketplace/glpiinventory/ --force

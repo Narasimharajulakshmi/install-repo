@@ -1,0 +1,5 @@
+MAC
+----------------------------
+Download : https://github.com/glpi-project/glpi-agent/releases
+
+sudo /Applications/GLPI-Agent/bin/glpi-agent --server=http://assets.girmiti.in/marketplace/glpiinventory/ --force --full --debug
